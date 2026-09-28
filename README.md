@@ -8,7 +8,7 @@
 ![HTML Reports](https://img.shields.io/badge/Reporting-pytest--html-22A559)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
-An enterprise-grade API test automation framework targeting all six JSONPlaceholder endpoints (`/posts`, `/comments`, `/albums`, `/photos`, `/todos`, `/users`). Built with Python, Pytest, Pydantic v2, and Requests.
+An enterprise-grade API test automation framework targeting all six JSONPlaceholder endpoints (`/posts`, `/comments`, `/albums`, `/photos`, `/todos`, `/users`). Built with Python, Pytest, Pydantic v2, and Requests all built within a 2hr window.
 
 ---
 
